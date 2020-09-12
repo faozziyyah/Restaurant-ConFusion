@@ -1,0 +1,113 @@
+
+.row-header{
+  margin: 0px auto;
+  padding: 0px;
+}
+
+body {
+  padding: 50px 0px 0px 0px;
+  z-index: 0;
+}
+
+.row-content {
+  margin: 0px auto;
+  padding: 50px 0px 50px 0px;
+  border-bottom: 1px ridge;
+  min-width: 400px;
+}
+
+.jumbotron {
+  padding: 70px 30px 70px 30px;
+  margin: 0px auto;
+  background: #9575CD;
+  color: floralwhite;
+}
+
+address {
+  font-size: 80%;
+  margin: 0px;
+  color: #0f0f0f;
+}
+
+footer {
+  background: #D1C4E9;
+  padding-top: 7px;
+}
+
+.navbar-dark{
+  background-color: #512DA8;
+}
+
+#cardheader{
+  color: white;
+}
+
+#Reserve{
+  margin-top: 10px;
+  margin-left: 2em;
+}
+
+#Reserve a {
+  color: white;
+}
+
+.tab-content{
+  border-left: 1px solid #ddd;
+  border-right: 1px solid #ddd;
+  border-bottom: 1px solid #ddd;
+  padding: 10px;
+}
+
+.carousel{
+  background: #512DA8;
+}
+
+.carousel-item{
+  height: 300px;
+}
+
+.carousel-item img{
+  position: absolute;
+  top: 0;
+  left: 0;
+  min-height: 300px;
+}
+
+.col-form-label{
+  color: black;
+}
+
+.form-group .col-md-10{
+  color: black;
+}
+
+.modal-title{
+  color: floralwhite;
+}
+
+.close{
+  color: floralwhite;
+}
+
+#carouselButton{
+  right: 0px;
+  position: absolute;
+  bottom: 0px;
+  z-index: 1;
+}
+
+.modal-header{
+  background-color:#4a2492;
+}
+
+.modal-body{
+  background-color:#ecd4fc;
+}
+
+#about{
+ background-color: #ecd4fc;
+}
+
+#contact{
+ background-color:#ecd4fc;
+}
