@@ -45,6 +45,8 @@ footer {
 #Reserve{
   margin-top: 10px;
   margin-left: 2em;
+  box-shadow: 5px 5px 5px;
+  border-radius: 20px;
 }
 
 #Reserve a {
@@ -110,4 +112,16 @@ footer {
 
 #contact{
  background-color:#ecd4fc;
+}
+
+.card-header{
+  background-color:#4a2492;
+}
+
+#head{
+  background-color:#4a2492;
+}
+
+.text{
+  font-size: 20px;
 }
